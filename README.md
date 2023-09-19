@@ -1,3 +1,2 @@
-# CS246-Chess
-Members:
-Julianne Jorda
+# Chess game created for a project in the course CS246
+
